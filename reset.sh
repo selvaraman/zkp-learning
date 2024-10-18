@@ -1,2 +1,0 @@
-rm -rf *
-cp ../bkup/* . 
